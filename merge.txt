@@ -1,0 +1,4 @@
+"mergre from  Main to release brnach"
+"cmd: git merge main"
+"when popup dispalyed , select main to merger and click enter"
+
